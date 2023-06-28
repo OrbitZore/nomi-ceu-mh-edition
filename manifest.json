@@ -778,6 +778,88 @@
       "projectID": 870486,
       "fileID": 4569618,
       "required": true
+    },
+    {
+      "_name" : "车万女仆",
+      "projectID": 355044,
+      "fileID": 3576415,
+      "required": true
+    },
+    {
+      "_name" : "i18nChinese汉化",
+      "projectID": 297404,
+      "fileID": 4611692,
+      "required": true,
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "_name" : "opencomputer",
+      "projectID": 223008,
+      "fileID": 4566834,
+      "required": true
+    },
+    {
+      "_name" : "libnine-lazyAE2前置",
+      "projectID": 322344,
+      "fileID": 3509087,
+      "required": true
+    },
+    {
+      "_name" : "lazyAE2",
+      "projectID": 322347,
+      "fileID": 3254160,
+      "required": true
+    },
+    {
+      "_name" : "MrTJPCore-ProjectRed前置",
+      "_url" : "https://legacy.curseforge.com/minecraft/mc-mods/mrtjpcore/files/2735197",
+      "projectID": 229002,
+      "fileID": 2735197,
+      "required": true
+    },
+    {
+      "_name" : "cbmultipart-ProjectRed前置",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/2755790",
+      "projectID": 258426,
+      "fileID": 2755790,
+      "required": true
+    },
+    {
+      "_name" : "ProjectRed Core",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545",
+      "projectID": 228702,
+      "fileID": 2745545,
+      "required": true
+    },
+    {
+      "_name" : "ProjectRed Illumination",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549",
+      "projectID": 229046,
+      "fileID": 2745549,
+      "required": true
+    },
+    {
+      "_name" : "ProjectRed Fabrication",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547",
+      "projectID": 230111,
+      "fileID": 2745547,
+      "required": true
+    },
+    {
+      "_name" : "ProjectRed Integration",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548",
+      "projectID": 229045,
+      "fileID": 2745548,
+      "required": true
+    },
+    {
+      "_name" : "ProjectRed Compat",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546",
+      "projectID": 229050,
+      "fileID": 2745546,
+      "required": true
     }
   ]
 }
