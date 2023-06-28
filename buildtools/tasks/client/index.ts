@@ -174,8 +174,8 @@ export default gulp.series(
 	exportModpackManifest,
 	copyClientLicense,
 	copyClientOverrides,
-	copyClientChangelog,
-	copyClientUpdateNotes,
+	// copyClientChangelog,
+	// copyClientUpdateNotes,
 	fetchModList,
 	compressMainMenuImages,
 );

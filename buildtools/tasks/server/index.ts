@@ -263,7 +263,7 @@ export default gulp.series([
 	copyServerOverrides,
 	copyServerfiles,
 	copyServerLicense,
-	copyServerChangelog,
-	copyServerUpdateNotes,
+	// copyServerChangelog,
+	// copyServerUpdateNotes,
 	processLaunchscripts,
 ]);
