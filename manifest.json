@@ -122,6 +122,8 @@
       "required": true
     },
     {
+      "_name" : "ProjectRed Core",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545",
       "projectID": 228702,
       "fileID": 2745545,
       "required": true
@@ -134,6 +136,8 @@
       "required": true
     },
     {
+      "_name" : "ProjectRed Integration",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548",
       "projectID": 229045,
       "fileID": 2745548,
       "required": true
@@ -391,6 +395,8 @@
       "required": true
     },
     {
+      "_name" : "cbmultipart-ProjectRed前置",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/2755790",
       "projectID": 258426,
       "fileID": 2755790,
       "required": true
@@ -815,20 +821,6 @@
       "required": true
     },
     {
-      "_name" : "cbmultipart-ProjectRed前置",
-      "_url" : "https://www.curseforge.com/minecraft/mc-mods/cb-multipart/files/2755790",
-      "projectID": 258426,
-      "fileID": 2755790,
-      "required": true
-    },
-    {
-      "_name" : "ProjectRed Core",
-      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-core/files/2745545",
-      "projectID": 228702,
-      "fileID": 2745545,
-      "required": true
-    },
-    {
       "_name" : "ProjectRed Illumination",
       "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-illumination/files/2745549",
       "projectID": 229046,
@@ -840,13 +832,6 @@
       "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547",
       "projectID": 230111,
       "fileID": 2745547,
-      "required": true
-    },
-    {
-      "_name" : "ProjectRed Integration",
-      "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548",
-      "projectID": 229045,
-      "fileID": 2745548,
       "required": true
     },
     {
