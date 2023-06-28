@@ -40,7 +40,7 @@ async function deployReleases(): Promise<void> {
 		auth: process.env.GITHUB_TOKEN,
 	});
 
-	const parsedSlug = /(.+)\/(.+)/.exec(process.env.GITHUB_REPOSITORY);
+	const parsedSlug = /(.+)\/(.+)/.exec("OrbitZore/nomi-ceu-mh-edition");
 	if (!parsedSlug) {
 		throw new Error("No/malformed GitHub repository slug provided.");
 	}
