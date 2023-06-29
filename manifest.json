@@ -797,9 +797,8 @@
       "_name" : "i18nChinese汉化",
       "projectID": 297404,
       "fileID": 4611692,
-      "required": true,
+      "required": false,
       "sides": [
-        "client"
       ]
     },
     {
@@ -839,6 +838,72 @@
       "_url" : "https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546",
       "projectID": 229050,
       "fileID": 2745546,
+      "required": true
+    },
+    {
+      "_name" : "Simple Voice Chat-语音",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4613801",
+      "projectID": 416089,
+      "fileID": 4613801,
+      "required": true
+    },
+    {
+      "_name" : "BiblioCraft-书架",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708",
+      "projectID": 228027,
+      "fileID": 3647708,
+      "required": true
+    },
+    {
+      "_name" : "Just Enough Character-JEI拼音搜索",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/just-enough-characters/files/4402463",
+      "projectID": 250702,
+      "fileID": 4402463,
+      "required": true,
+      "sides": [
+        "client"
+      ]
+    },
+    {
+      "_name" : "IvToolkit-更多随机生成建筑前置",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/ivtoolkit/files/2443253",
+      "projectID": 224535,
+      "fileID": 2443253,
+      "required": true
+    },
+    {
+      "_name" : "Recurrent Complex-更多随机生成建筑",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/recurrent-complex/files/4356582",
+      "projectID": 223150,
+      "fileID": 4356582,
+      "required": true
+    },
+    {
+      "_name" : "Farseek-溪流前置",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/farseek/files/3093852",
+      "projectID": 229708,
+      "fileID": 3093852,
+      "required": true
+    },
+    {
+      "_name" : "Streams-溪流",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/streams/files/3109315",
+      "projectID": 229769,
+      "fileID": 3109315,
+      "required": true
+    },
+    {
+      "_name" : "Biomes O' Plenty-超多生物群系",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3558882",
+      "projectID": 220318,
+      "fileID": 3558882,
+      "required": true
+    },
+    {
+      "_name" : "Realistic Terrain Generation-真实生物群系生成",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation/files/2782568",
+      "projectID": 237989,
+      "fileID": 2782568,
       "required": true
     }
   ]
