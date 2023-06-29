@@ -905,6 +905,16 @@
       "projectID": 237989,
       "fileID": 2782568,
       "required": true
+    },
+    {
+      "_name" : "CustomSkinLoader-万用皮肤补丁",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/4480813",
+      "projectID": 286924,
+      "fileID": 4480813,
+      "required": true,
+      "sides": [
+        "client"
+      ]
     }
   ]
 }
