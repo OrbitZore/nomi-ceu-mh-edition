@@ -9,6 +9,10 @@
 # https://github.com/t0suj4
 
 # DO NOT EDIT UNLESS YOU KNOW WHAT YOU'RE DOING
+
+
+PATH="$PATH"
+JAVA_EXEC='java'
 FORGEJAR='{{{forgeJar}}}'
 JAVA_PARAMETERS='{{{jvmArgs}}}'
 
@@ -21,16 +25,16 @@ LAUNCHPARAMS="-server -Xms$MIN_RAM -Xmx$MAX_RAM $JAVA_PARAMETERS -Dlog4j.configu
 
 echo "Checking java version..."
 echo
-java -version
+$JAVA_EXEC -version
 echo
 echo "The expected java version is 1.8. Not higher, not lower."
 echo
 
 echo "Launching the server..."
 echo
-echo "> java $LAUNCHPARAMS"
+echo "> $JAVA_EXEC $LAUNCHPARAMS"
 
-java $LAUNCHPARAMS
+$JAVA_EXEC $LAUNCHPARAMS
 
 echo
 echo "- The server has stopped. If it's a crash, please read the output above."

@@ -4,8 +4,8 @@
 	"downloaderConcurrency": 50,
 	"downloaderCheckHashes": true,
 	"downloaderCacheDirectory": "../.cache",
-	"launchscriptsMinRAM": "2048M",
-	"launchscriptsMaxRAM": "2048M",
+	"launchscriptsMinRAM": "8192M",
+	"launchscriptsMaxRAM": "8192M",
 	"launchscriptsJVMArgs": "",
 	"copyFromSharedServerGlobs": [
 		"overrides/**/*",
