@@ -898,14 +898,18 @@
       "_url" : "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3558882",
       "projectID": 220318,
       "fileID": 3558882,
-      "required": true
+      "required": false,
+      "sides": [
+      ]
     },
     {
       "_name" : "Realistic Terrain Generation-真实生物群系生成",
       "_url" : "https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation/files/2782568",
       "projectID": 237989,
       "fileID": 2782568,
-      "required": true
+      "required": false,
+      "sides": [
+      ]
     },
     {
       "_name" : "CustomSkinLoader-万用皮肤补丁",

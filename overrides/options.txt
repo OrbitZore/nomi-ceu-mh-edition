@@ -1,2 +1,3 @@
 lang:zh_cn
 resourcePacks:["Minecraft-Mod-Language-Modpack.zip"]
+autoJump:false
