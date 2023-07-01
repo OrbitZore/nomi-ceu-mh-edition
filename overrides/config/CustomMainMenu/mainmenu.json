@@ -70,7 +70,7 @@
       }
     },
     "update": {
-      "text": "Update Changes",
+      "text": "更新变动",
       "posX": 125,
       "posY": 26,
       "width": 120,
@@ -82,7 +82,7 @@
       }
     },
     "discord": {
-      "text": "Join Us On Discord!",
+      "text": "在Discord上加入我们!",
       "posX": 4,
       "posY": 26,
       "width": 120,
@@ -94,7 +94,7 @@
       }
     },
     "akliz": {
-      "text": "Rent Your Own Nomifactory Server!",
+      "text": "租用你自己的Nomifactory服务器!",
       "posX": 4,
       "posY": 50,
       "width": 240,
@@ -122,28 +122,28 @@
         "displayDuration": 100,
         "fadeDuration": 40,
         "images": [
-          "minecraft:textures/gui/title/background/01_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/02_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/03_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/04_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/05_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/06_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/07_extra cool cat#2192.png",
-          "minecraft:textures/gui/title/background/08_gaboggamer#7202.png",
-          "minecraft:textures/gui/title/background/09_scaatis#5969.png",
-          "minecraft:textures/gui/title/background/10_akaash#2394.png",
-          "minecraft:textures/gui/title/background/11______________#2028.png",
-          "minecraft:textures/gui/title/background/12______________#2028.png",
-          "minecraft:textures/gui/title/background/13_pent#7534.png",
-          "minecraft:textures/gui/title/background/14_doniazade#5149.png",
-          "minecraft:textures/gui/title/background/15_doniazade#5149.png",
-          "minecraft:textures/gui/title/background/16_dashin#9978.png",
-          "minecraft:textures/gui/title/background/17_besoiobiycrazy designer#0516.png",
-          "minecraft:textures/gui/title/background/18_besoiobiycrazy designer#0516.png",
-          "minecraft:textures/gui/title/background/19_besoiobiycrazy designer#0516.png",
-          "minecraft:textures/gui/title/background/20_gaboggamer#7202.png",
-          "minecraft:textures/gui/title/background/21_darkarkangel#1961.png",
-          "minecraft:textures/gui/title/background/22_darkarkangel#1961.png"
+          "minecraft:textures/gui/title/background/08_gaboggamer#7202.jpg",
+          "minecraft:textures/gui/title/background/02_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/03_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/05_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/06_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/04_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/07_extra cool cat#2192.jpg",
+          "minecraft:textures/gui/title/background/09_scaatis#5969.jpg",
+          "minecraft:textures/gui/title/background/13_pent#7534.jpg",
+          "minecraft:textures/gui/title/background/11______________#2028.jpg",
+          "minecraft:textures/gui/title/background/12______________#2028.jpg",
+          "minecraft:textures/gui/title/background/14_doniazade#5149.jpg",
+          "minecraft:textures/gui/title/background/10_akaash#2394.jpg",
+          "minecraft:textures/gui/title/background/16_dashin#9978.jpg",
+          "minecraft:textures/gui/title/background/15_doniazade#5149.jpg",
+          "minecraft:textures/gui/title/background/18_besoiobiycrazy designer#0516.jpg",
+          "minecraft:textures/gui/title/background/20_gaboggamer#7202.jpg",
+          "minecraft:textures/gui/title/background/19_besoiobiycrazy designer#0516.jpg",
+          "minecraft:textures/gui/title/background/17_besoiobiycrazy designer#0516.jpg",
+          "minecraft:textures/gui/title/background/21_darkarkangel#1961.jpg",
+          "minecraft:textures/gui/title/background/22_darkarkangel#1961.jpg",
+          "minecraft:textures/gui/title/background/01_extra cool cat#2192.jpg"
         ]
       }
     }

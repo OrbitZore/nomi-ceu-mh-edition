@@ -799,6 +799,7 @@
       "fileID": 4611692,
       "required": false,
       "sides": [
+        "client"
       ]
     },
     {
@@ -855,10 +856,10 @@
       "required": true
     },
     {
-      "_name" : "Just Enough Character-JEI拼音搜索",
-      "_url" : "https://www.curseforge.com/minecraft/mc-mods/just-enough-characters/files/4402463",
-      "projectID": 250702,
-      "fileID": 4402463,
+      "_name" : "Had Enough Characters-HEI拼音搜索",
+      "_url" : "https://www.curseforge.com/minecraft/mc-mods/had-enough-characters/files/4035773",
+      "projectID": 640802,
+      "fileID": 4035773,
       "required": true,
       "sides": [
         "client"
