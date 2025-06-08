@@ -16,6 +16,16 @@
   "name": "nomi-ceu",
   "files": [
     {
+      "projectID": 355044,
+      "fileID": 3576415,
+      "required": true
+    },
+    {
+      "projectID": 1181296,
+      "fileID": 6095950,
+      "required": true
+    },
+    {
       "projectID": 32274,
       "fileID": 5172461,
       "required": true
